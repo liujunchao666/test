@@ -4,4 +4,3 @@ git push <远程主机名> <本地分支名>:<远程分支名>
 git push origin  dev:master
 67899
 0000
-11111
