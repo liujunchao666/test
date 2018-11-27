@@ -1,0 +1,4 @@
+hello git nihao
+git is good
+git is nice
+git is very good
