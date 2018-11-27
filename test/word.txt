@@ -1,1 +1,1 @@
-git word master
+master git word master
