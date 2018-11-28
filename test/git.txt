@@ -12,3 +12,4 @@ git push origin  dev:master
 不要命也离
 死了也要离
 下定决心要离
+同意离婚好吗
