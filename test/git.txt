@@ -6,11 +6,3 @@ git push origin  dev:master
 00005678
 9
 00000000liujunchaolihun
-离婚  快乐
-快点
-马上离不怕
-不要命也离
-死了也要离
-下定决心要离
-同意离婚好吗
-给你10万离

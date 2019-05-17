@@ -5,3 +5,6 @@ git is very good
 git is simple
 yes no dev say haaha
 dev say gagna
+yes
+ master2 sayhahah
+ master2 saygaga
